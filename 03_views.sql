@@ -1,4 +1,3 @@
--- Simple Guided Activity: Create view for project-worker assignments
 CREATE VIEW v_project_worker_assignments AS
 SELECT p.project_name, w.first_name, w.last_name, pa.start_date, pa.end_date, pa.hours_worked
 FROM projects p
