@@ -1,5 +1,4 @@
--- Guided Activity: Simple Index
--- Sample query: Retrieve assignments for a specific project
+-- Simple guided Activity: Simple Index
 EXPLAIN SELECT * FROM project_assignments WHERE project_id = 1;
 
 CREATE INDEX idx_project_assignments_project_id ON project_assignments(project_id);
