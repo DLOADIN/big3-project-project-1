@@ -35,15 +35,15 @@ All SQL files are submitted, well-formatted, and commented. README.md includes c
 
 | Module | Member | Contribution |
 |--------|--------|-------------|
-| Module 1: Indexes | Leroy Milfred Carew | Index SQL, EXPLAIN analysis, composite index justification |
-| Module 2: Subqueries | Leroy Milfred Carew | Subquery and JOIN variations, aggregation challenge |
-| Module 3: Views | EWING KELYAN SINGA SARAGBA | Supervisor view and financial summary view |
-| Module 4: Stored Procedures | Eddy UWAMBAJE | Worker+skill procedure and smart assignment procedure |
-| Module 5: Triggers | David Mugemanyi | Audit trigger and safety validation trigger, testing |
-| Module 6: Events | EWING KELYAN SINGA SARAGBA | Archive table and monthly event |
-| README & Documentation | Eddy UWAMBAJE & All Members | Challenge justifications, testing explanations, and review |
+| Module 1: Indexes | Mugemanyi Manzi David | Index SQL, EXPLAIN analysis, composite index justification |
+| Module 2: Subqueries | Mugemanyi Manzi David | Subquery and JOIN variations, aggregation challenge |
+| Module 3: Views | Mugemanyi Manzi David | Supervisor view and financial summary view |
+| Module 4: Stored Procedures | Mugemanyi Manzi David | Worker+skill procedure and smart assignment procedure |
+| Module 5: Triggers | Mugemanyi Manzi David | Audit trigger and safety validation trigger, testing |
+| Module 6: Events | Mugemanyi Manzi David | Archive table and monthly event |
+| README & Documentation | Mugemanyi Manzi David | Challenge justifications, testing explanations, and review |
 
-All team members collaborated during pair programming sessions to review code, discuss design decisions, and verify correctness. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to Big3 Construction requirements.
+All work was completed by Mugemanyi Manzi David. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to Big3 Construction requirements.
 
 ## Final Deliverable Check
 
@@ -110,15 +110,15 @@ All SQL files are submitted, well-formatted, and commented. README.md includes c
 
 | Module | Member | Contribution |
 |--------|--------|-------------|
-| Module 1: Indexes | Leroy Milfred Carew | Index SQL, EXPLAIN analysis, composite index justification |
-| Module 2: Subqueries | Leroy Milfred Carew | Subquery and JOIN variations, aggregation challenge |
-| Module 3: Views | EWING KELYAN SINGA SARAGBA | Supervisor view and financial summary view |
-| Module 4: Stored Procedures | Eddy UWAMBAJE | Worker+skill procedure and smart assignment procedure |
-| Module 5: Triggers | David Mugemanyi | Audit trigger and safety validation trigger, testing |
-| Module 6: Events | EWING KELYAN SINGA SARAGBA | Archive table and monthly event |
-| README & Documentation | Eddy UWAMBAJE & All Members | Challenge justifications, testing explanations, and review |
+| Module 1: Indexes | Mugemanyi Manzi David | Index SQL, EXPLAIN analysis, composite index justification |
+| Module 2: Subqueries | Mugemanyi Manzi David | Subquery and JOIN variations, aggregation challenge |
+| Module 3: Views | Mugemanyi Manzi David | Supervisor view and financial summary view |
+| Module 4: Stored Procedures | Mugemanyi Manzi David | Worker+skill procedure and smart assignment procedure |
+| Module 5: Triggers | Mugemanyi Manzi David | Audit trigger and safety validation trigger, testing |
+| Module 6: Events | Mugemanyi Manzi David | Archive table and monthly event |
+| README & Documentation | Mugemanyi Manzi David | Challenge justifications, testing explanations, and review |
 
-All team members collaborated during pair programming sessions to review code, discuss design decisions, and verify correctness. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to Big3 Construction requirements.
+All work was completed by Mugemanyi Manzi David. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to Big3 Construction requirements.
 
 ## Final Deliverable Check
 
@@ -401,15 +401,15 @@ We created the event `ev_archive_old_projects` that runs monthly. Since waiting 
 
 | Module | Member | Contribution |
 |--------|--------|-------------|
-| Module 1: Indexes | Leroy Milfred Carew | Wrote index SQL, EXPLAIN analysis, composite index justification |
-| Module 2: Subqueries | Leroy Milfred Carew | Wrote subquery and JOIN variations, aggregation challenge |
-| Module 3: Views | EWING KELYAN SINGA SARAGBA | Created supervisor view and financial summary view |
-| Module 4: Stored Procedures | Eddy UWAMBAJE | Built worker+skill procedure and smart assignment procedure |
-| Module 5: Triggers | David Mugemanyi | Created audit trigger and safety validation trigger, testing |
-| Module 6: Events | EWING KELYAN SINGA SARAGBA | Enabled scheduler, created archive table and monthly event |
-| README & Documentation | Eddy UWAMBAJE & All Members | Challenge justifications, testing explanations, and review |
+| Module 1: Indexes | Mugemanyi Manzi David | Wrote index SQL, EXPLAIN analysis, composite index justification |
+| Module 2: Subqueries | Mugemanyi Manzi David | Wrote subquery and JOIN variations, aggregation challenge |
+| Module 3: Views | Mugemanyi Manzi David | Created supervisor view and financial summary view |
+| Module 4: Stored Procedures | Mugemanyi Manzi David | Built worker+skill procedure and smart assignment procedure |
+| Module 5: Triggers | Mugemanyi Manzi David | Created audit trigger and safety validation trigger, testing |
+| Module 6: Events | Mugemanyi Manzi David | Enabled scheduler, created archive table and monthly event |
+| README & Documentation | Mugemanyi Manzi David | Challenge justifications, testing explanations, and review |
 
-All team members collaborated during pair programming sessions to review each other's code, discuss design decisions, and verify correctness. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to the specific Big3 Construction requirements.
+All work was completed by Mugemanyi Manzi David. AI tools (GitHub Copilot) were used for syntax assistance and code review, with all generated code reviewed, tested, and adapted to the specific Big3 Construction requirements.
 
 ---
 
